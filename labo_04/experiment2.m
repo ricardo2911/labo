@@ -41,4 +41,3 @@ set(gca, 'clim', [cmaplowlim, max(get(gca, 'clim'))]);
 
 
 
-5
